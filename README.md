@@ -3,7 +3,7 @@
 ### `// @haluboyys — mirror of @andrraa`
 
 > *Main account got cooked by GitHub's spam filter for the crime of pushing code.*  
-> *Congrats GitHub Trust & Safety, you successfully stopped me from... fixing bugs.*
+> *Congrats GitHub Trust & Safety, you successfully stopped me from... making more bugs.*
 
 </div>
 
