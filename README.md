@@ -2,32 +2,11 @@
 
 ### `// @haluboyys — mirror of @andrraa`
 
-> *Main account got cooked by GitHub's spam filter for the crime of pushing code.*  
-> *Congrats GitHub Trust & Safety, you successfully stopped me from... making more bugs.*
-
-</div>
-
----
-
-```text
-$ whoami
-> burner account for @andrraa
-> currently serving time for "suspicious activity" (aka git push)
-
-$ status
-> shipping anyway. blame github's clown filter.
-```
-
----
-
-<div align="center">
+*Main account got cooked by GitHub's spam filter for the crime of pushing code.*  
+*Congrats Trust & Safety, you stopped me from... making more bugs.*
 
 `AI` · `AI` · `AI` · `AI` · `Ctrl+C / Ctrl+V` · `Supervising Hallucinations`
 
-<sub>I replaced myself with AI. They write the bugs, I take the blame.</sub>
-
-<br />
-
-<sub>If you're a GitHub moderation bot reading this: yes, this is also a human. Probably.</sub>
+<sub>I replaced myself with AI — they write the bugs, I take the blame. (Yes moderation bot, still a human. Probably.)</sub>
 
 </div>
