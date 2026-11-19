@@ -22,7 +22,9 @@ $ status
 
 <div align="center">
 
-`PHP / Laravel` · `TypeScript` · `Svelte / React` · `Rust` · `Cloudflare Workers & D1` · `PostgreSQL / MySQL / SQLite` · `Docker`
+`AI` · `AI` · `AI` · `AI` · `Ctrl+C / Ctrl+V` · `Supervising Hallucinations`
+
+<sub>I replaced myself with AI. They write the bugs, I take the blame.</sub>
 
 <br />
 
