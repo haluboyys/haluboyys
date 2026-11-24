@@ -1,12 +1,5 @@
-<div align="center">
+### haluboyys
 
-### `// @haluboyys — mirror of @andrraa`
+Backup account for `@andrraa` after GitHub's spam filter decided pushing my spaghetti code looked suspicious.
 
-*Main account got cooked by GitHub's spam filter for the crime of pushing code.*  
-*Congrats Trust & Safety, you stopped me from... making more bugs.*
-
-`AI` · `AI` · `AI` · `AI` · `Ctrl+C / Ctrl+V` · `Supervising Hallucinations`
-
-<sub>I replaced myself with AI — they write the bugs, I take the blame. (Yes moderation bot, still a human. Probably.)</sub>
-
-</div>
+Just building random stuff here, 1% written by me and 99% by AI.
